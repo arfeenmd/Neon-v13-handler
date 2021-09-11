@@ -7,8 +7,8 @@ If you having any problem with these code join our support server.
 <br>
 > Developer: TOM WNL#7402
  <br>
-Server Link: [Join Server](https://discord.gg/jREkuabwJ7) <br>
-Invite Our Music bot: [Invite Bot](https://discord.com/oauth2/authorize?client_id=821336810277175327&scope=bot&permissions=3761732945)
+Server Link: [Join Server] (https://discord.gg/jREkuabwJ7) <br>
+Invite Our Music bot: [Invite Bot] (https://discord.com/oauth2/authorize?client_id=821336810277175327&scope=bot&permissions=3761732945)
 
 
 <br/>
