@@ -29,7 +29,7 @@ Invite Our Music bot: https://discord.com/oauth2/authorize?client_id=82133681027
 
 # 🖥️ <b>How to enable slash ?
 ```
-Make sure click bot & application.commands in Bot Auth
+Make sure to select bot & application.commands in Bot Auth
 ```
 <b>
 
