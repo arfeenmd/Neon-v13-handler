@@ -5,13 +5,11 @@ const momentDurationFormatSetup = require("moment-duration-format");
 
 module.exports = {
     name: 'uptime',
-    aliases: [''], 
-    categories: ' ', 
+    ownerOnly: false,
     description: 'show\'s bot uptime',
     userperm: [],
     botperm: [],
-    usage: '',
-   
+
     /** 
      * @param {Client} client 
      * @param {CommandInteraction} interaction 
