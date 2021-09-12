@@ -38,7 +38,7 @@ client.on("interactionCreate", async (interaction) => {
      const { owners } = require("../config/config.json");
      if (cmd) {
       if (cmd.ownerOnly) {
-     if (!owners.includes(interaction.author)) {
+     if (!owners.includes(interaction.user.id)) {
      let ownerOnly = new MessageEmbed()
       .setDescription( "*<a:wrong:885815677091454986> Only Bot Developer can use this command!*" )
     return interaction.followUp({embeds : [ownerOnly] })
