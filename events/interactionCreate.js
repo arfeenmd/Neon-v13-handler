@@ -35,7 +35,15 @@ client.on("interactionCreate", async (interaction) => {
               );
          return interaction.followUp({embeds : [perms]}); }
 
-
+     const { owners } = require("../config/config.json");
+     if (cmd) {
+      if (cmd.ownerOnly) {
+     if (!owners.includes(interaction.author)) {
+     let ownerOnly = new MessageEmbed()
+      .setDescription( "*<a:wrong:885815677091454986> Only Bot Developer can use this command!*" )
+    return interaction.followUp({embeds : [ownerOnly] })
+    }}
+    }
        
 
         interaction.member = interaction.guild.members.cache.get(interaction.user.id);
