@@ -102,6 +102,7 @@ module.exports = {
     description: '',
     userperm: [],
     botperm: [],
+    ownerOnly: false,
     options: [
       {
         name: " ",
