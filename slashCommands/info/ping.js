@@ -2,12 +2,11 @@ const { Client, CommandInteraction, MessageEmbed } = require('discord.js');
 
 module.exports = {
     name: 'ping',
-    aliases: [''], 
-    categories: ' ', 
+    ownerOnly: false,
     description: 'show Bot Latency',
     userperm: [],
     botperm: [],
-    usage: '',
+
    
     /** 
      * @param {Client} client 
