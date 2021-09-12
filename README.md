@@ -84,7 +84,8 @@ module.exports = {
 
 
 
-}}      
+   }
+ }      
 ```
 <br/>
 
@@ -98,12 +99,17 @@ const { Client, CommandInteraction, MessageEmbed } = require('discord.js');
 
 module.exports = {
     name: '',
-    aliases: [''], 
-    categories: ' ', 
     description: '',
     userperm: [],
     botperm: [],
-    usage: '',
+    options: [
+      {
+        name: " ",
+        description: " ",
+        type: " ",
+      }
+  ],
+  
    
     /** 
      * @param {Client} client 
@@ -114,7 +120,8 @@ module.exports = {
 
 
 
-}}    
+    }
+ }    
 ```
 <br/>
 
