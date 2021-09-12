@@ -5,10 +5,10 @@ const prefix = require("../../config/config.json").prefix;
 module.exports = {
     name: "help",
     description: "Show All Commands",
-    aliases: [''], 
+    ownerOnly: false,
     userperm: [],
     botperm: [],
-    usage: '',
+
   /**
    * @param {Client} client
    * @param {ContextMenuInteraction} interaction
