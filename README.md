@@ -6,6 +6,7 @@ Discord V13 handler with slash Command Support</h1><br/>
 If you having any problem with these code join our support server.
 <br>
 > Developer: TOM WNL#7402
+> Credits: Kabir jaipal
  <br>
 Server Link: https://discord.gg/jREkuabwJ7 <br>
 Invite Our Music bot: https://discord.com/oauth2/authorize?client_id=821336810277175327&scope=bot&permissions=3761732945
