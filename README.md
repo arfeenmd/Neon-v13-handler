@@ -5,7 +5,7 @@ Discord V13 handler with slash Command Support</h1><br/>
 
 If you having any problem with these code join our support server.
 <br>
-> Developer: TOM WNL#7402
+> Developer: TOM WNL#7402 <br>
 > Credits: Kabir jaipal
  <br>
 Server Link: https://discord.gg/jREkuabwJ7 <br>
